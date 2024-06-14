@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -empty -t f,d -printf "%P\n"
